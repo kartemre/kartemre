@@ -59,6 +59,8 @@ const emreKart = {
 
 ### 💻 Programming Languages
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -69,12 +71,9 @@ const emreKart = {
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![SignalR](https://img.shields.io/badge/SignalR-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
 ### 🎨 Frontend
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -100,7 +99,7 @@ const emreKart = {
 
 ---
 
-## � Professional Experience
+## 💼 Professional Experience
 
 <table>
 <tr>
@@ -153,7 +152,9 @@ const emreKart = {
 </tr>
 </table>
 
-**🚗 Mavera Teknoloji Takımı** • *Team Leader* (Sep 2024 - Jan 2025) • TÜBİTAK Efficiency Challenge Finalist - Vehicle control & telemetry systems
+**🚗 Mavera Teknoloji Takımı**
+- *Team Leader* (Sep 2024 - Jan 2025) • TÜBİTAK Efficiency Challenge Finalist - Led vehicle control & telemetry development
+- *Team Member* (Jul 2023 - Aug 2024) • Teknofest 2024 participant - Vehicle control systems & telemetry
 
 ---
 
@@ -162,7 +163,7 @@ const emreKart = {
 <div align="center">
 
 ![Teknofest](https://img.shields.io/badge/🏁_Teknofest_2024-Efficiency_Challenge-FF6B35?style=for-the-badge)
-![Hackathon](https://img.shields.io/badge/🏅_Hackathon_Winner-EcoWater_Platform-4CAF50?style=for-the-badge)
+![Hackathon](https://img.shields.io/badge/💡_Hackathon-Participant-4CAF50?style=for-the-badge)
 ![TÜBİTAK](https://img.shields.io/badge/🔬_TÜBİTAK_STAR-Researcher-0055A4?style=for-the-badge)
 ![42](https://img.shields.io/badge/🚀_42_Schools-Active_Learner-000000?style=for-the-badge)
 
@@ -170,15 +171,15 @@ const emreKart = {
 
 ---
 
-## �📊 GitHub Statistics
+## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=kartemre&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae" height="180" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=kartemre&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae" height="180" alt="Top Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=kartemre&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kartemre&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae" height="180" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=kartemre&theme=tokyonight&hide_border=true&background=1a1b27&stroke=70a5fd&ring=bf91f3&fire=ff9e64&currStreakLabel=70a5fd" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=kartemre&theme=tokyonight&hide_border=true&background=1a1b27&stroke=70a5fd&ring=bf91f3&fire=ff9e64&currStreakLabel=70a5fd" alt="GitHub Streak" />
 </div>
 
 ---
@@ -207,7 +208,7 @@ Full-stack SaaS randevu yönetim platformu - CQRS & Onion Architecture ile geli�
 <td width="50%" valign="top">
 
 ### 🤖 T-BOT: Banking AI Assistant
-Context-aware conversational AI for banking support
+**TEB İcat Çıkar Hackathon Project**
 
 **Highlights:**
 - ✨ RAG (Retrieval-Augmented Generation)
@@ -245,13 +246,13 @@ AI-powered content analysis with vision transformers
 <td width="50%" valign="top">
 
 ### 🌊 EcoWater Platform
-**🏅 Hackathon Winner** - Sustainable water tracking
+**Google Developer Student Club Hackathon**
 
 **Highlights:**
 - 💧 Real-time consumption monitoring
 - 📈 Analytics dashboard
 - 🎯 Gamification & rewards system
-- 🏆 1st place in sustainability hackathon
+- 🌱 Sustainable water tracking solution
 
 **Stack:** Python, Django, PostgreSQL, Bootstrap
 
@@ -363,7 +364,7 @@ Sorting algorithm optimization
 
 <div align="center">
   
-  ### � "Clean code always looks like it was written by someone who cares."
+  ### 💭 "Clean code always looks like it was written by someone who cares."
   
   <img src="https://komarev.com/ghpvc/?username=kartemre&color=6C63FF&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
   
